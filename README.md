@@ -1,1 +1,1 @@
-# openshift on tuesday
+# openshift on tuesday at 22 feb
